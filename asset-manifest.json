@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.js": "/static/js/main.8bd29649.js",
+    "static/media/ourOffices.png": "/static/media/ourOffices.4ff1d5bb728251db0f6f.png",
+    "static/media/Screenshot-1.png": "/static/media/Screenshot-1.fab75a48db0f33183fdc.png",
+    "static/media/Screenshot-2.png": "/static/media/Screenshot-2.71ef3bc17c37fc77e0e1.png",
+    "static/media/Screenshot-3.png": "/static/media/Screenshot-3.6bfcf4b00397d5492925.png",
+    "static/media/product_design.png": "/static/media/product_design.c0055d50bcf7f531c849.png",
+    "static/media/services_table.png": "/static/media/services_table.22ed264b6d78c3183ab5.png",
+    "static/media/digital__marketing.png": "/static/media/digital__marketing.4cb2c36d3ff35c3c2570.png",
+    "static/media/services_typing.png": "/static/media/services_typing.46905cb4c36f06f14d93.png",
+    "static/media/draw_art.png": "/static/media/draw_art.35d2312380926563f94a.png",
+    "static/media/hold__paint.png": "/static/media/hold__paint.507968847a98886384fb.png",
+    "static/media/brand_design_1.png": "/static/media/brand_design_1.2b021e52d18a7dd4e0b0.png",
+    "static/media/chip_performance_hw__6ytcie74ao22_large_2x.png": "/static/media/chip_performance_hw__6ytcie74ao22_large_2x.aa604f774eb2259c2707.png",
+    "static/media/mobi_img_2.png": "/static/media/mobi_img_2.25a2de2acdfbb0f41af4.png",
+    "static/media/mobi_img_1.png": "/static/media/mobi_img_1.193c4aab070b01b65f47.png",
+    "static/media/ambulance.png": "/static/media/ambulance.06ec2de7bebf704659c0.png",
+    "static/media/green.png": "/static/media/green.a7ce41ac3f8893ff80d8.png",
+    "static/media/centrelinemarking.png": "/static/media/centrelinemarking.aaaa12c02a43b05382af.png",
+    "static/media/policelight.png": "/static/media/policelight.5c8a521b9d63ba8e6628.png",
+    "static/media/roadworks.png": "/static/media/roadworks.47ecfaee96ca96f9e6b4.png",
+    "static/media/playstore.svg": "/static/media/playstore.b308f5669b823a28b3e0f933c35fd645.svg",
+    "static/media/applestore.svg": "/static/media/applestore.5bada262769afee6e86b4a184079e16f.svg",
+    "static/media/driving-sch-logo.svg": "/static/media/driving-sch-logo.f7b22175a120a597aedf8b4a97ea7660.svg",
+    "static/media/fillingstation.png": "/static/media/fillingstation.69a3c23100448ec1343c.png",
+    "static/media/landing-shade.svg": "/static/media/landing-shade.083b0b231e24404aef7a440fa065b6d0.svg",
+    "static/media/unreal@2x.webp": "/static/media/unreal@2x.24e19d806bebcc759896.webp",
+    "static/media/UG-flag.svg": "/static/media/UG-flag.99f7ebd72b62b6fa2c690604f579fca0.svg",
+    "static/media/cashless.svg": "/static/media/cashless.460499cb1d2146b3c320eed40dab0a63.svg",
+    "index.html": "/index.html",
+    "main.8bd29649.js.map": "/static/js/main.8bd29649.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.8bd29649.js"
+  ]
+}
